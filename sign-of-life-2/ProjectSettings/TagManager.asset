@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Botiquin
+  - Terminal
   layers:
   - Default
   - TransparentFX
